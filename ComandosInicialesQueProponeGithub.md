@@ -1,7 +1,10 @@
 # De GitHub.com
 ## … or create a new repository on the command line
+
 echo "# ComandosGit" >> README.md
+
 git init
+
 git add README.md
 git commit -m "first commit"
 git branch -M main
