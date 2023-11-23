@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1">
-<title>Comandos GIT</title>
-</head>
-<body>
 <h1>Comandos GitHub</h1>
 
 <h2>git -h</h2>
